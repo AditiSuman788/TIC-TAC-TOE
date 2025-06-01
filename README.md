@@ -24,7 +24,7 @@ The project consists of the following files and directories:
 ├── index.html
 └── README.md
 
-index.html - the main HTML file that contains the game board and game result text.
-assets - a directory that contains all of the game's assets, including CSS and JavaScript files, as well as any images used in the game.
-assets/css/index.css - the CSS file that styles the game board and game pieces.
-assets/js/script.js - the JavaScript file that contains the game logic and functionality.
+* index.html - the main HTML file that contains the game board and game result text.
+* assets - a directory that contains all of the game's assets, including CSS and JavaScript files, as well as any images used in the game.
+* assets/css/index.css - the CSS file that styles the game board and game pieces.
+* assets/js/script.js - the JavaScript file that contains the game logic and functionality.
