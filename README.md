@@ -15,14 +15,6 @@ To run the game, simply open the `index.html` file in a web browser.
 
 ## Project Structure
 The project consists of the following files and directories:
-.
-├── assets
-│   ├── css
-│   │   └── index.css
-│   └── js
-│       └── script.js
-├── index.html
-└── README.md
 
 * `index.html` - the main HTML file that contains the game board and game result text.
 * `assets` - a directory that contains all of the game's assets, including CSS and JavaScript files, as well as any images used in the game.
