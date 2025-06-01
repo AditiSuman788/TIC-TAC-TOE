@@ -1,8 +1,6 @@
 # TIC-TAC-TOE
 This is a simple web-based Tic Tac Toe game that allows two players to compete against each other.
-
-
-![image](https://github.com/user-attachments/assets/d2753704-d5d2-4473-9542-5a6c00077bb3)
+![image](https://github.com/user-attachments/assets/3a7b352b-8944-42ba-a7c3-ca3c699be9ec)
 
 ## How to Play
 To play the game, simply click on a box on the game board to place your symbol (either "X" or "O") in that spot. The game will automatically alternate between the two players. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game. If all nine spots are filled and neither player has won, the game is considered a draw.
